@@ -1,6 +1,6 @@
 # Hi, I’m Nima Mojarradi 👋  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nima-blue)](https://www.linkedin.com/in/nima-mojarradi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nima-blue)](https://www.linkedin.com/in/nima-mojarradi-004397246/)  
 [![GitHub Followers](https://img.shields.io/github/followers/nima-mojarradi?label=Followers&style=social)](https://github.com/nima-mojarradi)  
 [![GitHub Stars](https://img.shields.io/github/stars/nima-mojarradi?label=Stars&style=social)](https://github.com/nima-mojarradi)  
 
