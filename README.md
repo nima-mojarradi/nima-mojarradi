@@ -29,12 +29,14 @@
 ### 🌐 Web & Backend  
 - **[online_shop](https://github.com/nima-mojarradi/online_shop)** – E-commerce platform with product browsing and cart management.  
 - **[crypto_django](https://github.com/nima-mojarradi/crypto_django)** – Real-time cryptocurrency tracking and analytics with Django.  
-- **[podcast_manager](https://github.com/nima-mojarradi/podcast_manager)** – Podcast organization and management tool.  
+- **[podcast_manager](https://github.com/nima-mojarradi/podcast_manager)** – Podcast organization and management tool.
+- **[time_registration_system](https://github.com/nima-mojarradi/finger_print-web.git)** – Website for time registering and user manager for organizations.
 
 ### 🔌 IoT & Embedded Systems  
 - **[menu_selection](https://github.com/nima-mojarradi/menu_selection)** – Interactive menu selection system for embedded devices.  
 - **[My-Web-Service](https://github.com/nima-mojarradi/My-Web-Service)** – Lightweight web service, useful in IoT applications.  
-- **[arduino_projects](https://github.com/nima-mojarradi/arduino_projects)** – Collection of Arduino-based hardware experiments.  
+- **[arduino_projects](https://github.com/nima-mojarradi/arduino_projects)** – Collection of Arduino-based hardware experiments.
+- **[finger_print_scanner](https://github.com/nima-mojarradi/finger_print-device.git)** – Code for restoring and sending the fingerprint id to the backend.  
 
 ---
 
