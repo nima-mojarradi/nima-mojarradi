@@ -92,8 +92,6 @@ PostgreSQL Database
 Web Dashboard & Analytics
 ```
 
----
-
 ## 🌟 Featured Projects
 
 ### 🔐 FingerPrint Web
@@ -102,37 +100,45 @@ Enterprise attendance and user management platform.
 
 **Stack:** Django • PostgreSQL • Docker
 
-🔗 https://github.com/nima-mojarradi/finger_print-web
-
 ---
 
 ### 📡 FingerPrint Device
 
 Biometric attendance device powered by ESP32.
 
-**Stack:** C++ • ESP32 • MQTT
-
-🔗 https://github.com/nima-mojarradi/finger_print-device
+**Stack:** C++ • ESP32
 
 ---
 
-### 📈 Crypto Django
+### 🎙️ Podcast Manager
 
-Real-time cryptocurrency monitoring and analytics platform.
+Podcast management platform for organizing episodes, content and publishing workflows.
 
-**Stack:** Django • WebSocket • PostgreSQL
-
-🔗 https://github.com/nima-mojarradi/crypto_django
+**Stack:** Django • PostgreSQL
 
 ---
 
-### 🛒 Online Shop
+### 🔑 FastAPI Authorization
 
-Full-featured e-commerce platform.
+Role-based access control and authorization service built with FastAPI.
 
-**Stack:** Django • PostgreSQL • JavaScript
+**Stack:** FastAPI • PostgreSQL • JWT
 
-🔗 https://github.com/nima-mojarradi/online_shop
+---
+
+### 👤 FastAPI Accounts
+
+Authentication and user account management system.
+
+**Stack:** FastAPI • PostgreSQL • JWT
+
+---
+
+### 🤖 Quiz Bot
+
+Telegram-based quiz platform with score tracking and automated question management.
+
+**Stack:** Python(Python Telegram Bot) • Telegram Bot API
 
 ---
 
@@ -150,11 +156,13 @@ Full-featured e-commerce platform.
 
 ## 🎯 Current Focus
 
-* Advanced STM32 Development
-* Bare-Metal Programming
-* IoT Infrastructure Design
-* Distributed Backend Systems
-* LVGL UI Development
+* Building production-ready Django applications
+* Designing scalable backend architectures
+* Developing APIs with FastAPI
+* IoT systems using ESP32 and STM32
+* Authentication & Authorization systems
+* Message brokers and asynchronous processing with RabbitMQ
+* Clean Architecture & Software Design Patterns
 
 ---
 
