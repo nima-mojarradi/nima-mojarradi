@@ -1,65 +1,95 @@
-# Hi, I’m Nima Mojarradi 👋  
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nima-blue)](https://www.linkedin.com/in/nima-mojarradi-004397246/)  
-[![GitHub Followers](https://img.shields.io/github/followers/nima-mojarradi?label=Followers&style=social)](https://github.com/nima-mojarradi)  
-[![GitHub Stars](https://img.shields.io/github/stars/nima-mojarradi?label=Stars&style=social)](https://github.com/nima-mojarradi)  
+# Hello there! I'm Nima Mojarradi 👋
 
-💡 I’m a **Full-Stack Developer, IoT Enthusiast, and Educator** — passionate about creating **real-world projects**, exploring **emerging technologies**, and **teaching others** along the way.  
+**Full-Stack Developer | IoT Hardware Engineer | Tech Educator**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nima-mojarradi-004397246/)
+[![GitHub Followers](https://img.shields.io/github/followers/nima-mojarradi?style=for-the-badge&logo=github)](https://github.com/nima-mojarradi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nima.mojarradi83@gmail.com)
 
-## 🚀 Skills & Tools  
+*Passionate about bridging the gap between physical hardware and scalable web systems.*
 
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-
-**Tools & Platforms:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)  
+</div>
 
 ---
 
-## 📂 Featured Projects  
+## 🛠️ My Tech Arsenal
 
-### 🌐 Web & Backend  
-- **[online_shop](https://github.com/nima-mojarradi/online_shop)** – E-commerce platform with product browsing and cart management.  
-- **[crypto_django](https://github.com/nima-mojarradi/crypto_django)** – Real-time cryptocurrency tracking and analytics with Django.  
-- **[podcast_manager](https://github.com/nima-mojarradi/podcast_manager)** – Podcast organization and management tool.
-- **[time_registration_system](https://github.com/nima-mojarradi/finger_print-web.git)** – Website for time registering and user manager for organizations.
-
-### 🔌 IoT & Embedded Systems  
-- **[menu_selection](https://github.com/nima-mojarradi/menu_selection)** – Interactive menu selection system for embedded devices.  
-- **[My-Web-Service](https://github.com/nima-mojarradi/My-Web-Service)** – Lightweight web service, useful in IoT applications.  
-- **[arduino_projects](https://github.com/nima-mojarradi/arduino_projects)** – Collection of Arduino-based hardware experiments.
-- **[finger_print_scanner](https://github.com/nima-mojarradi/finger_print-device.git)** – Code for restoring and sending the fingerprint id to the backend.  
-
----
-
-## 📊 GitHub Stats  
-
-![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=nima-mojarradi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-mojarradi&layout=compact&theme=radical)  
-
----
-
-## 🔭 Current Focus  
-- Deepening expertise in **IoT with ESP32, Arduino, and Raspberry Pi Pico**  
-- Building **full-stack apps with Django & React**  
-- Designing **educational tools** for programming and English  
-
----
-
-## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/nima-mojarradi-004397246/)  
-- Email: `nima.mojarradi83@gmail.com`
-- [GitHub](https://github.com/nima-mojarradi)
-
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🌐 Web & Backend</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <br><br>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> <br><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" /> <br><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </td>
+    <td valign="top" width="33%">
+      <h3>🔌 IoT & Embedded</h3>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <br><br>
+      <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /> <br><br>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /> <br><br>
+      <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+    </td>
+    <td valign="top" width="33%">
+      <h3>⚙️ Tools & DevOps</h3>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <br><br>
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /> <br><br>
+      <img src="https://img.shields.io/badge/LVGL-175596?style=for-the-badge&logo=c&logoColor=white" alt="LVGL" /> <br><br>
+      <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-✨ *“I love combining education, technology, and creativity — from teaching English to designing IoT dashboards and building web apps.”*  
+## 🚀 Featured Projects
+
+<div align="center">
+  <!-- Top Projects (Web & Hardware Integration) -->
+  <a href="https://github.com/nima-mojarradi/finger_print-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nima-mojarradi&repo=finger_print-web&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/nima-mojarradi/finger_print-device">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nima-mojarradi&repo=finger_print-device&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  
+  <!-- Django Apps & Services -->
+  <a href="https://github.com/nima-mojarradi/crypto_django">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nima-mojarradi&repo=crypto_django&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/nima-mojarradi/online_shop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nima-mojarradi&repo=online_shop&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nima-mojarradi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nima-mojarradi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nima-mojarradi&theme=tokyonight&hide_border=true" width="98%" />
+</div>
+
+---
+
+## 🔭 Current Focus & Explorations
+
+- 🧠 Diving deeper into **STM32 architectures** and bare-metal programming.
+- 🎨 Designing high-end, **Glassmorphism-style UI dashboards** using **LVGL**.
+- 🌐 Scaling backend architectures with **Django, Celery, and RabbitMQ**.
+- 📚 Combining education, technology, and creativity — from teaching English to designing IoT solutions.
+
+<br>
+
+<div align="center">
+  <i>"I love combining education, technology, and creativity — from teaching English to designing IoT dashboards and building web apps."</i>
+</div>
