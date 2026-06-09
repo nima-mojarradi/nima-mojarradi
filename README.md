@@ -47,20 +47,18 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <!-- Top Projects (Web & Hardware Integration) -->
   <a href="https://github.com/nima-mojarradi/finger_print-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nima-mojarradi&repo=finger_print-web&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=nima-mojarradi&repo=finger_print-web&theme=tokyonight&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/nima-mojarradi/finger_print-device">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nima-mojarradi&repo=finger_print-device&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=nima-mojarradi&repo=finger_print-device&theme=tokyonight&hide_border=true" width="48%" />
   </a>
   
-  <!-- Django Apps & Services -->
   <a href="https://github.com/nima-mojarradi/crypto_django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nima-mojarradi&repo=crypto_django&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=nima-mojarradi&repo=crypto_django&theme=tokyonight&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/nima-mojarradi/online_shop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nima-mojarradi&repo=online_shop&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=nima-mojarradi&repo=online_shop&theme=tokyonight&hide_border=true" width="48%" />
   </a>
 </div>
 
@@ -69,8 +67,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nima-mojarradi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nima-mojarradi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nima-mojarradi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_bust=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nima-mojarradi&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" width="48%" />
 </div>
 
 <br>
